@@ -24,7 +24,6 @@ This is the **official comprehensive repository** for the **Prayaga Vaibhav Prop
 ├── 📄 README.md                  # This comprehensive overview
 ├── 📄 USAGE.md                   # Implementation and usage guide
 ├── 📄 CONTRIBUTING.md            # Contribution guidelines
-├── 📄 INVENTION_PORTFOLIO.md     # Detailed portfolio documentation
 ├── 📄 intellectual_property.md   # IP protection details
 ├── 📁 docs/                      # Comprehensive documentation
 │   ├── 📄 implementation_examples.md
