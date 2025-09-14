@@ -1,10 +1,18 @@
 # Om Vinayaka - Prayaga Vaibhav Inventions Copyright License
 
+**Quick Navigation:** [Key Inventions Catalog](./key_inventions.md) | [License Terms](./LICENSE) | [Usage Guide](./USAGE.md) | [IP Documentation](./intellectual_property.md)
+
 ## Overview
 
 **Om Vinayaka** 🙏
 
 This repository contains the official copyright license for **218+ inventions** and all intellectual property developed by **Prayaga Vaibhav**. This serves as the central reference point for licensing terms applied to all current and future projects, providing comprehensive protection for an extensive portfolio of innovations.
+
+## 📚 Key Inventions Catalog
+
+View the [Key Inventions Catalog](./key_inventions.md) to explore featured publications with DOI references from Prayaga Vaibhav's portfolio, including works published on Zenodo with full scholarly attribution.
+
+**ORCID Profile:** https://orcid.org/0009-0007-8995-0895
 
 ## License Terms
 
@@ -48,10 +56,12 @@ You can also copy the LICENSE file directly to your project and reference this r
 This repository serves as:
 1. **Central License Repository** - Single source of truth for copyright terms
 2. **Invention Portfolio Protection** - Legal protection for 218+ inventions
-3. **Reference Point** - Link to this repo from all projects using this license
-4. **Version Control** - Track changes and updates to license terms over time
-5. **Legal Documentation** - Official record of intellectual property rights
-6. **Media Guidelines** - Clear framework for media coverage with attribution requirements
+3. **Key Inventions Catalog** - Documented showcase of published works with DOI references
+4. **Reference Point** - Link to this repo from all projects using this license
+5. **Version Control** - Track changes and updates to license terms over time
+6. **Legal Documentation** - Official record of intellectual property rights
+7. **Media Guidelines** - Clear framework for media coverage with attribution requirements
+8. **Academic Citation Hub** - Proper attribution format for scholarly references
 
 ## Contact for Permissions
 

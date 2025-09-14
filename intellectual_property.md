@@ -48,6 +48,8 @@ Prayaga Vaibhav
 Rajamahendravaram, Andhra Pradesh, India
 ORCID: https://orcid.org/0009-0007-8995-0895
 
+Key Inventions Portfolio: See key_inventions.md for detailed catalog of published works with DOI references.
+
 Inspired and supported by my father:
 Prayaga Venkata Ramakrishna, Advocate, Rajamahendravaram
 
