@@ -1,0 +1,57 @@
+# Om Vinayaka - Comprehensive Repository .gitignore
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+build/
+dist/
+*.build
+*.compiled
+
+# Logs
+*.log
+logs/
+
+# Dependencies (if any future additions)
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Cache directories
+.cache/
+.tmp/
+
+# Private/sensitive files that should never be committed
+private/
+sensitive/
+*.private
+*.secret
+*.key
+*.pem
+
+# Test outputs
+test-results/
+coverage/
