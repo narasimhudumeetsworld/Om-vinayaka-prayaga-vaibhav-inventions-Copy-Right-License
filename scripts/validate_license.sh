@@ -39,6 +39,9 @@ check_file "LICENSE"
 # Check for README.md
 check_file "README.md"
 
+# Check for automatic_copyright.md
+check_file "automatic_copyright.md"
+
 echo ""
 echo "Checking license content..."
 echo "-------------------------"
@@ -60,6 +63,19 @@ if [ -f "README.md" ]; then
     check_text_in_file "README.md" "Prayaga Vaibhav"
     check_text_in_file "README.md" "All Rights Reserved"
     check_text_in_file "README.md" "Copyright"
+    check_text_in_file "README.md" "AUTOMATIC FUTURE PROTECTION"
+fi
+
+echo ""
+echo "Checking automatic copyright content..."
+echo "------------------------------------"
+
+# Check automatic_copyright.md content
+if [ -f "automatic_copyright.md" ]; then
+    check_text_in_file "automatic_copyright.md" "Prayaga Vaibhav"
+    check_text_in_file "automatic_copyright.md" "All Rights Reserved"
+    check_text_in_file "automatic_copyright.md" "AUTOMATIC COPYRIGHT PROTECTION"
+    check_text_in_file "automatic_copyright.md" "FUTURE INVENTIONS"
 fi
 
 echo ""
@@ -104,9 +120,11 @@ echo "=================="
 echo ""
 echo "Required Elements Checklist:"
 echo "[ ] LICENSE file present"
+echo "[ ] automatic_copyright.md file present"
 echo "[ ] Copyright notice: © 2024-2025 Prayaga Vaibhav. All rights reserved."
 echo "[ ] 'All Rights Reserved' declaration"
 echo "[ ] 'Om Vinayaka 🙏' attribution"
+echo "[ ] Automatic future protection provisions"
 echo "[ ] Contact information included"
 echo "[ ] Repository link to license source"
 echo "[ ] Media coverage provisions stated"
