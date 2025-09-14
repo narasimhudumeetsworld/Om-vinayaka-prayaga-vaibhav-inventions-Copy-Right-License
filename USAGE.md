@@ -8,9 +8,10 @@ Add this to your project's README.md:
 ```markdown
 ## License
 This project is licensed under the Prayaga Vaibhav Proprietary License - All Rights Reserved.
+Protected under comprehensive terms covering 218+ inventions.
 Full license: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License/blob/main/LICENSE
 
-Copyright (c) 2024 Prayaga Vaibhav. All rights reserved.
+Copyright (c) 2024-2025 Prayaga Vaibhav. All rights reserved.
 ```
 
 ### Option 2: Copy License File
@@ -36,8 +37,8 @@ Add this header to source code files:
 
 ```
 /*
- * Copyright (c) 2024 Prayaga Vaibhav
- * All Rights Reserved
+ * Copyright (c) 2024-2025 Prayaga Vaibhav
+ * 218+ Inventions - All Rights Reserved
  * 
  * This file is part of a proprietary software project.
  * Unauthorized copying, distribution, or use is strictly prohibited.
@@ -51,9 +52,34 @@ Add this header to source code files:
 For documentation or websites:
 
 ```
-© 2024 Prayaga Vaibhav. All rights reserved. No part of this publication 
-may be reproduced, distributed, or transmitted in any form or by any means 
-without the prior written permission of the author.
+© 2024-2025 Prayaga Vaibhav. All rights reserved. 218+ inventions protected.
+No part of this publication may be reproduced, distributed, or transmitted 
+in any form or by any means without the prior written permission of the author.
+Media coverage permitted for news purposes only with full attribution.
+```
+
+## Media Coverage Guidelines
+
+For media organizations covering the inventions:
+
+### ✅ PERMITTED for Media:
+- News coverage and reporting for informational purposes
+- General descriptions of inventions and innovations
+- Attribution to Prayaga Vaibhav as inventor
+- Linking to this repository for licensing information
+
+### ❌ PROHIBITED for Media:
+- Detailed technical disclosure of invention specifications
+- Reproduction of designs, diagrams, or implementation details
+- Commercial use of invention information
+- Claiming any usage rights through media coverage
+- Unauthorized sharing without proper attribution
+
+### Required Attribution:
+```
+Inventions by Prayaga Vaibhav. All rights reserved.
+License information: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License
+Contact: Vaibhavlakshmi18@icloud.com
 ```
 
 ## Repository Updates
