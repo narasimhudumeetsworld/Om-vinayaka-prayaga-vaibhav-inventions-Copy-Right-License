@@ -285,7 +285,7 @@ Users of this license are responsible for:
 
 © 2024-2025 Prayaga Vaibhav. All rights reserved.
 
-This repository and all associated content, documentation, templates, examples, and materials are protected under the **Prayaga Vaibhav Proprietary License - All Rights Reserved**. 
+This repository and all associated content, documentation, examples, and materials are protected under the **Prayaga Vaibhav Proprietary License - All Rights Reserved**. 
 
 **218+ Inventions Protected** | **International Legal Framework** | **Comprehensive IP Protection**
 
