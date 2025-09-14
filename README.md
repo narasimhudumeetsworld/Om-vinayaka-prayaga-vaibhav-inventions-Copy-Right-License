@@ -4,18 +4,28 @@
 
 **Om Vinayaka** 🙏
 
-This repository contains the official copyright license for all inventions, creations, and intellectual property developed by **Prayaga Vaibhav**. This serves as the central reference point for licensing terms applied to all current and future projects.
+This repository contains the official copyright license for **218+ inventions** and all intellectual property developed by **Prayaga Vaibhav**. This serves as the central reference point for licensing terms applied to all current and future projects, providing comprehensive protection for an extensive portfolio of innovations.
 
 ## License Terms
 
-All content, code, inventions, ideas, concepts, designs, and materials created by Prayaga Vaibhav are protected under a **STRICT ALL RIGHTS RESERVED** license. See the [LICENSE](./LICENSE) file for complete terms and conditions.
+All content, code, **218+ inventions**, ideas, concepts, designs, and materials created by Prayaga Vaibhav are protected under a **STRICT ALL RIGHTS RESERVED** license. See the [LICENSE](./LICENSE) file for complete terms and conditions.
 
-### Key Points:
+### Key Protection Features:
 - ✅ **ALL RIGHTS RESERVED** - No permissions granted without explicit written consent
+- ✅ **218+ INVENTIONS PROTECTED** - Comprehensive portfolio protection
+- ✅ **MEDIA COVERAGE ALLOWED** - Limited news coverage with strict attribution requirements
 - ❌ **NO COPYING** - Reproduction in any form is prohibited
 - ❌ **NO DISTRIBUTION** - Sharing or publishing is not allowed
 - ❌ **NO MODIFICATION** - Creating derivative works is forbidden
 - ❌ **NO COMMERCIAL USE** - Business use requires separate licensing agreement
+- ❌ **NO USAGE RIGHTS** - Media coverage does not grant usage permissions
+
+### Media Coverage Provisions:
+- 📺 Media organizations may cover inventions for **news purposes only**
+- 📝 **Full attribution** to Prayaga Vaibhav required
+- 🔗 Must link to this repository for licensing information
+- 🚫 **No usage rights** granted through media coverage
+- 📋 Only general descriptions allowed, no detailed technical disclosure
 
 ## How to Reference This License
 
@@ -25,9 +35,10 @@ For any project or repository that should use this copyright license, include th
 ## License
 
 This project is licensed under the Prayaga Vaibhav Proprietary License - All Rights Reserved.
+Protected under comprehensive intellectual property terms covering 218+ inventions.
 See the full license terms at: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License/blob/main/LICENSE
 
-Copyright (c) 2024 Prayaga Vaibhav. All rights reserved.
+Copyright (c) 2024-2025 Prayaga Vaibhav. All rights reserved.
 ```
 
 You can also copy the LICENSE file directly to your project and reference this repository as the source of truth for any updates to the license terms.
@@ -36,13 +47,22 @@ You can also copy the LICENSE file directly to your project and reference this r
 
 This repository serves as:
 1. **Central License Repository** - Single source of truth for copyright terms
-2. **Reference Point** - Link to this repo from all projects using this license
-3. **Version Control** - Track changes and updates to license terms over time
-4. **Legal Documentation** - Official record of intellectual property rights
+2. **Invention Portfolio Protection** - Legal protection for 218+ inventions
+3. **Reference Point** - Link to this repo from all projects using this license
+4. **Version Control** - Track changes and updates to license terms over time
+5. **Legal Documentation** - Official record of intellectual property rights
+6. **Media Guidelines** - Clear framework for media coverage with attribution requirements
 
 ## Contact for Permissions
 
-All requests for permission to use any materials under this license must be submitted in writing. Please use the GitHub Issues feature of this repository for license inquiries.
+All requests for permission to use any materials under this license must be submitted in writing. 
+
+**Contact Information:**
+- Email: Vaibhavlakshmi18@icloud.com
+- Mobile: +91 9493177052
+- Location: Rajamahendravaram, Andhra Pradesh, India
+
+For media inquiries, please use the GitHub Issues feature of this repository for license and coverage inquiries.
 
 ## Updates and Modifications
 
@@ -51,5 +71,7 @@ This license repository will be updated as needed to reflect changes in licensin
 ---
 
 **Prayaga Vaibhav**  
-*All Rights Reserved*  
+*218+ Inventions - All Rights Reserved*  
 *Om Vinayaka* 🙏
+
+*Inspired and supported by Prayaga Venkata Ramakrishna, Advocate, Rajamahendravaram*
