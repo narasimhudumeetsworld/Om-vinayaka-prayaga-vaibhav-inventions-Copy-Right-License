@@ -63,6 +63,7 @@ All requests for permission to use any materials under this license must be subm
 - Email: narasimhudumeetsworld@outlook.com
 - Mobile: +91 9493177052
 - Location: Rajamahendravaram, Andhra Pradesh, India
+- ORCID: https://orcid.org/0009-0007-8995-0895
 
 For media inquiries, please use the GitHub Issues feature of this repository for license and coverage inquiries.
 

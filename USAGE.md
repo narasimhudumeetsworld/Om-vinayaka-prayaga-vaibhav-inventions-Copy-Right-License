@@ -80,6 +80,7 @@ For media organizations covering the inventions:
 Inventions by Prayaga Vaibhav. All rights reserved.
 License information: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License
 Contact: vaibhavlakshmi18@icloud.com | vaibhavlakshmi18@outlook.com | narasimhudumeetsworld@outlook.com
+ORCID: https://orcid.org/0009-0007-8995-0895
 ```
 
 ## Repository Updates
