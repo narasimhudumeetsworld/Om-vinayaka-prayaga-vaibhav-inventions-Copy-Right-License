@@ -30,10 +30,6 @@ This is the **official comprehensive repository** for the **Prayaga Vaibhav Prop
 │   ├── 📄 implementation_examples.md
 │   ├── 📄 media_guidelines.md
 │   └── 📄 academic_citation.md
-├── 📁 templates/                 # Ready-to-use templates
-│   ├── 📄 project_readme_template.md
-│   ├── 📄 source_code_header.txt
-│   └── 📄 package_json_template.json
 ├── 📁 examples/                  # Practical usage examples
 │   ├── 📁 software_project/
 │   ├── 📁 web_application/
