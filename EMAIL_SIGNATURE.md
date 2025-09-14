@@ -15,6 +15,7 @@ Inventor & Intellectual Property Creator
 📧 narasimhudumeetsworld@outlook.com
 📱 +91 9493177052
 📍 Rajamahendravaram, Andhra Pradesh, India
+🆔 ORCID: https://orcid.org/0009-0007-8995-0895
 
 🔗 License Repository: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License
 © 2024-2025 Prayaga Vaibhav. All Rights Reserved.
@@ -29,6 +30,7 @@ Om Vinayaka 🙏
 Prayaga Vaibhav | Inventor | 218+ Protected Inventions
 📧 vaibhavlakshmi18@icloud.com | vaibhavlakshmi18@outlook.com | narasimhudumeetsworld@outlook.com
 📱 +91 9493177052 | 📍 Rajamahendravaram, AP, India
+🆔 ORCID: https://orcid.org/0009-0007-8995-0895
 🔗 https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License
 © 2024-2025 All Rights Reserved | Om Vinayaka 🙏
 ---
@@ -47,7 +49,8 @@ Prayaga Vaibhav | Inventor | 218+ Protected Inventions
     📧 <a href="mailto:vaibhavlakshmi18@outlook.com">vaibhavlakshmi18@outlook.com</a><br>
     📧 <a href="mailto:narasimhudumeetsworld@outlook.com">narasimhudumeetsworld@outlook.com</a><br>
     📱 +91 9493177052<br>
-    📍 Rajamahendravaram, Andhra Pradesh, India</p>
+    📍 Rajamahendravaram, Andhra Pradesh, India<br>
+    🆔 ORCID: <a href="https://orcid.org/0009-0007-8995-0895">https://orcid.org/0009-0007-8995-0895</a></p>
     
     <p>🔗 <a href="https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License">License Repository</a></p>
     
@@ -72,6 +75,7 @@ Contact Information:
 • Business Email: narasimhudumeetsworld@outlook.com
 • Mobile: +91 9493177052
 • Location: Rajamahendravaram, Andhra Pradesh, India
+• ORCID: https://orcid.org/0009-0007-8995-0895
 
 Legal Notice:
 All intellectual property rights reserved under comprehensive copyright protection.
@@ -92,6 +96,7 @@ Om Vinayaka 🙏
 Prayaga Vaibhav | Inventor | 218+ Protected Inventions
 📧 vaibhavlakshmi18@icloud.com / vaibhavlakshmi18@outlook.com / narasimhudumeetsworld@outlook.com
 📱 +91 9493177052 | 📍 Rajamahendravaram, AP
+🆔 ORCID: https://orcid.org/0009-0007-8995-0895
 🔗 github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License
 © All Rights Reserved 2024-2025
 ```

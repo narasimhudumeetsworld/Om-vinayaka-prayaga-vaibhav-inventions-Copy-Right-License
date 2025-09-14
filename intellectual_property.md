@@ -46,6 +46,7 @@ For all inquiries regarding permissions for use, adaptation, or potential collab
 Inventor:
 Prayaga Vaibhav
 Rajamahendravaram, Andhra Pradesh, India
+ORCID: https://orcid.org/0009-0007-8995-0895
 
 Inspired and supported by my father:
 Prayaga Venkata Ramakrishna, Advocate, Rajamahendravaram
@@ -57,3 +58,4 @@ Email: vaibhavlakshmi18@icloud.com
 Email: vaibhavlakshmi18@outlook.com
 Email: narasimhudumeetsworld@outlook.com
 Mobile: +91 9493177052
+ORCID: https://orcid.org/0009-0007-8995-0895
