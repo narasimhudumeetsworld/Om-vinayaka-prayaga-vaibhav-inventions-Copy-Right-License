@@ -79,7 +79,7 @@ For media organizations covering the inventions:
 ```
 Inventions by Prayaga Vaibhav. All rights reserved.
 License information: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License
-Contact: Vaibhavlakshmi18@icloud.com
+Contact: vaibhavlakshmi18@icloud.com | vaibhavlakshmi18@outlook.com | narasimhudumeetsworld@outlook.com
 ```
 
 ## Repository Updates

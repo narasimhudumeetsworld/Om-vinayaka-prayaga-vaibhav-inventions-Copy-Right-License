@@ -53,5 +53,7 @@ Prayaga Venkata Ramakrishna, Advocate, Rajamahendravaram
 Date of Copyright Notice: 12 September 2025
 
 For all inquiries, permission requests, or collaborations, please contact:
-Email: Vaibhavlakshmi18@icloud.com
+Email: vaibhavlakshmi18@icloud.com
+Email: vaibhavlakshmi18@outlook.com
+Email: narasimhudumeetsworld@outlook.com
 Mobile: +91 9493177052
