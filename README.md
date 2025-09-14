@@ -58,7 +58,9 @@ This repository serves as:
 All requests for permission to use any materials under this license must be submitted in writing. 
 
 **Contact Information:**
-- Email: Vaibhavlakshmi18@icloud.com
+- Email: vaibhavlakshmi18@icloud.com
+- Email: vaibhavlakshmi18@outlook.com
+- Email: narasimhudumeetsworld@outlook.com
 - Mobile: +91 9493177052
 - Location: Rajamahendravaram, Andhra Pradesh, India
 
