@@ -27,7 +27,7 @@ This comprehensive guide provides ready-to-use short-form copyright notices for 
 
 #### PhD/Master's Thesis Title Page
 ```
-© 2024-2025 Prayaga Vaibhav. All Rights Reserved.
+© 2024-2025 Prayaga Vaibhav (Woman Inventor). All Rights Reserved.
 
 This thesis is automatically protected under comprehensive copyright law as part of 
 the 218+ inventions portfolio with automatic future protection.
@@ -46,7 +46,7 @@ Om Vinayaka 🙏
 ABSTRACT
 [Your abstract content here]
 
-© 2024-2025 Prayaga Vaibhav. All Rights Reserved. Automatic copyright protection applied.
+© 2024-2025 Prayaga Vaibhav (Woman Inventor). All Rights Reserved. Automatic copyright protection applied.
 Licensed under Prayaga Vaibhav Proprietary License. Om Vinayaka 🙏
 LICENSE: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License/blob/main/LICENSE
 ```
