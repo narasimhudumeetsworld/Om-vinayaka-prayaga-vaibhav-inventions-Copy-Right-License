@@ -6,6 +6,8 @@
 
 This is the **official comprehensive repository** for the **Prayaga Vaibhav Proprietary License** and intellectual property framework protecting **218+ inventions**. This repository serves as the central hub for licensing, documentation, templates, and implementation guidance for one of the most extensive innovation portfolios in modern technology.
 
+**Inventor**: Prayaga Vaibhav is a **woman innovator** and inventor based in Rajamahendravaram, Andhra Pradesh, India, who has created this comprehensive portfolio of 218+ inventions across multiple technological domains.
+
 ### 🌟 Repository Highlights
 
 - **📋 Complete Licensing Framework** - Comprehensive legal protection for 218+ inventions
@@ -50,10 +52,11 @@ This is the **official comprehensive repository** for the **Prayaga Vaibhav Prop
 4. **Get Support**: Contact using information below
 
 ### For Media Organizations
-1. **Review Media Guidelines**: Check [docs/media_guidelines.md](./docs/media_guidelines.md)
+1. **Review Enhanced Media Guidelines**: Check [docs/media_guidelines.md](./docs/media_guidelines.md)
 2. **Use Attribution Templates**: Reference [templates/press_release_template.md](./templates/press_release_template.md)
-3. **Follow Coverage Rules**: Only general descriptions, full attribution required
-4. **Contact for Details**: Use official contact methods below
+3. **Enhanced Coverage Freedom**: News, educational content, inventor profiles, and impact stories permitted
+4. **Follow Attribution Rules**: Always credit Prayaga Vaibhav as woman inventor with full attribution
+5. **Contact for Technical Details**: Use official contact methods for detailed implementation coverage
 
 ### For Academic Researchers
 1. **Citation Standards**: Review [docs/academic_citation.md](./docs/academic_citation.md)
@@ -90,11 +93,14 @@ All content, code, **218+ inventions**, ideas, concepts, designs, and materials 
 - 🛡️ **Enhanced Enforceability** - Maximum legal remedies under Indian and international law
 
 ### Media Coverage Provisions:
-- 📺 Media organizations may cover inventions for **news purposes only**
-- 📝 **Full attribution** to Prayaga Vaibhav required
+- 📺 Media organizations have **enhanced freedom** to cover inventions for **news and educational purposes**
+- 📝 **Full attribution** to Prayaga Vaibhav (woman inventor) required
 - 🔗 Must link to this repository for licensing information
+- 📰 **Expanded coverage permitted** for general innovation descriptions, impact stories, and inventor profiles
+- 🎥 **Video features and documentaries** allowed with proper attribution 
+- 📊 **Analysis and commentary** on innovation portfolio permitted for news purposes
 - 🚫 **No usage rights** granted through media coverage
-- 📋 Only general descriptions allowed, no detailed technical disclosure
+- 📋 Technical implementation details require explicit written permission
 
 ### 🔒 Comprehensive Protection Scope
 This license framework protects an unprecedented portfolio including:
