@@ -41,7 +41,7 @@ echo "Licensed under Prayaga Vaibhav Proprietary License - All Rights Reserved" 
 {
   "name": "your-project",
   "license": "SEE LICENSE IN LICENSE",
-  "author": "Prayaga Vaibhav",
+  "author": "Prayaga Vaibhav (Woman Inventor)",
   "repository": "https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License"
 }
 ```
@@ -49,7 +49,7 @@ echo "Licensed under Prayaga Vaibhav Proprietary License - All Rights Reserved" 
 ### Source Code Header Example
 ```javascript
 /*
- * Copyright (c) 2024-2025 Prayaga Vaibhav
+ * Copyright (c) 2024-2025 Prayaga Vaibhav (Woman Inventor)
  * Om Vinayaka - 218+ Inventions - All Rights Reserved
  * Licensed under Prayaga Vaibhav Proprietary License
  */
@@ -73,7 +73,7 @@ Each example includes:
 
 ### Media Coverage:
 1. General descriptions only for news purposes
-2. Full attribution to Prayaga Vaibhav required
+2. Full attribution to Prayaga Vaibhav (Woman Inventor) required
 3. No detailed technical disclosure
 4. Link to license repository for full terms
 
@@ -87,7 +87,7 @@ Each example includes:
 
 For questions about implementing these examples:
 
-**Prayaga Vaibhav**
+**Prayaga Vaibhav (Woman Inventor)**
 - Email: vaibhavlakshmi18@icloud.com
 - Email: vaibhavlakshmi18@outlook.com
 - Email: narasimhudumeetsworld@outlook.com
