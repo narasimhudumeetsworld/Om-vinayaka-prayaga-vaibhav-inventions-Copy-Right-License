@@ -1,6 +1,8 @@
 om vinayaka
 
-Copyright © 2025 Prayaga Vaibhav. All Rights Reserved.
+Copyright © 2025 Prayaga Vaibhav (Woman Inventor). All Rights Reserved.
+
+**Inventor Identity**: Prayaga Vaibhav is a woman innovator and inventor based in Rajamahendravaram, Andhra Pradesh, India, who has created this comprehensive portfolio of innovations across multiple technological domains.
 
 This meticulously crafted work, encompassing a vast array of intellectual contributions, is made available strictly for the purposes of scholarly reading, personal study, and academic citation. It is imperative to understand that this notice serves as a stringent declaration of intellectual property rights, safeguarding the integrity and exclusivity of the creator's innovative efforts.Permitted Uses (Under Strict Conditions):
 
@@ -19,7 +21,7 @@ Uncredited Posting/Sharing: Posting or sharing this work or its contents outside
 Essential Attribution Requirements:
 
 Full and unequivocal credit must always be given to the following individuals, acknowledging their pivotal roles in the creation and inspiration of this work:
-Prayaga Vaibhav (Inventor/Author): As the sole inventor and author, Prayaga Vaibhav holds exclusive intellectual property rights.
+Prayaga Vaibhav (Woman Inventor/Author): As the sole inventor and author, Prayaga Vaibhav holds exclusive intellectual property rights as a woman innovator in the technology field.
 Prayaga Venkata Ramakrishna (Advocate, Rajamahendravaram): This work was developed with the profound encouragement, inspiration, and unwavering support of Prayaga Venkata Ramakrishna, Advocate, based in Rajamahendravaram, Andhra Pradesh, India. Their foundational inspiration and guiding force were instrumental in the creation of this intellectual property.
 Detailed Intellectual Property Scope:
 

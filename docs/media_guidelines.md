@@ -1,34 +1,42 @@
-# Media Coverage Guidelines
+# Enhanced Media Coverage Guidelines
 
 **Om Vinayaka** 🙏
 
 ## Overview
 
-This document provides comprehensive guidelines for media organizations covering the inventions and intellectual property protected under the Prayaga Vaibhav Proprietary License. These guidelines ensure proper attribution while respecting the comprehensive copyright framework protecting 218+ inventions.
+This document provides **enhanced guidelines** for media organizations covering the inventions and intellectual property protected under the Prayaga Vaibhav Proprietary License. These updated guidelines provide **greater freedom for media coverage** while ensuring proper attribution and respecting the comprehensive copyright framework protecting 218+ inventions.
+
+**Important Note**: Prayaga Vaibhav is a **woman innovator and inventor** based in Rajamahendravaram, Andhra Pradesh, India. Media coverage should acknowledge this when relevant to the story and maintain appropriate respect for her identity and achievements.
 
 ## Legal Framework for Media Coverage
 
-### ✅ PERMITTED Media Activities
+### ✅ ENHANCED PERMITTED Media Activities
 
-#### News Coverage and Reporting
-- **General descriptions** of inventions and innovations for informational purposes
-- **News reporting** about the inventor, portfolio, and general innovation scope
+#### News Coverage and Reporting (EXPANDED)
+- **Comprehensive news reporting** about the inventor, portfolio, and innovation impact
+- **Inventor profile features** highlighting Prayaga Vaibhav as a woman innovator
+- **Innovation impact stories** describing real-world applications and benefits
 - **Educational coverage** about intellectual property protection frameworks
-- **Industry analysis** mentioning the innovation portfolio in broader context
+- **Industry analysis** mentioning the innovation portfolio in broader technological context
+- **Documentary features** and long-form journalism with proper attribution
+- **Video content and multimedia** including interviews, feature stories, and educational content
+- **Podcast coverage** and audio features about innovation and intellectual property
 
-#### Attribution and Referencing
-- **Proper attribution** to Prayaga Vaibhav as inventor and copyright holder
+#### Enhanced Attribution and Referencing  
+- **Proper attribution** to Prayaga Vaibhav as woman inventor and copyright holder
 - **Linking** to this repository for complete licensing information
 - **Citation** in academic or professional contexts with full attribution
 - **Reference** in industry reports with proper acknowledgment
+- **Social media coverage** with appropriate tags and attribution
+- **Conference presentations** mentioning the portfolio with attribution
 
 ### ❌ PROHIBITED Media Activities
 
-#### Detailed Technical Disclosure
-- **Reproduction** of actual invention details, designs, or implementations
-- **Technical specifications** or detailed operational descriptions
-- **Diagrams, schematics,** or visual representations of inventions
+#### Detailed Technical Disclosure (RESTRICTED)
+- **Technical specifications** or detailed operational descriptions still require permission
+- **Diagrams, schematics,** or visual representations of specific implementations
 - **Source code, algorithms,** or proprietary methodologies
+- **Reverse engineering guidance** or implementation instructions
 
 #### Unauthorized Usage
 - **Commercial use** of invention information or media coverage
@@ -43,7 +51,7 @@ This document provides comprehensive guidelines for media organizations covering
 Every media coverage must include:
 
 ```
-Inventions by Prayaga Vaibhav. All rights reserved.
+Inventions by Prayaga Vaibhav (Woman Inventor). All rights reserved.
 License information: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License
 Contact: vaibhavlakshmi18@icloud.com | vaibhavlakshmi18@outlook.com | narasimhudumeetsworld@outlook.com
 ORCID: https://orcid.org/0009-0007-8995-0895
@@ -56,11 +64,14 @@ For comprehensive coverage:
 ```
 Om Vinayaka 🙏
 
-Comprehensive Innovation Portfolio by Prayaga Vaibhav
+Comprehensive Innovation Portfolio by Prayaga Vaibhav (Woman Inventor)
 218+ Inventions - All Rights Reserved
 
-This coverage is for news purposes only. No usage rights are granted through this media coverage.
+This coverage is for news and educational purposes. No usage rights are granted through this media coverage.
 All inventions and intellectual property remain exclusively owned by Prayaga Vaibhav.
+
+Enhanced media freedom provided for: news coverage, inventor profiles, innovation impact stories, 
+educational content, documentaries, and multimedia features with proper attribution.
 
 Full licensing information: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License
 
@@ -75,11 +86,19 @@ Inspired and supported by Prayaga Venkata Ramakrishna, Advocate, Rajamahendravar
 
 ## Media Contact Procedures
 
-### For Standard News Coverage
-1. **Review these guidelines** thoroughly before coverage
-2. **Use provided attribution templates** for proper credit
-3. **Focus on general descriptions** rather than technical details
+### For Standard News Coverage (ENHANCED)
+1. **Review these enhanced guidelines** thoroughly before coverage
+2. **Use provided attribution templates** for proper credit including gender identification
+3. **Expanded coverage freedom** for news, profiles, impact stories, and educational content
 4. **Include required attribution** in all published content
+5. **Respect inventor identity** when covering achievements and innovations
+
+### For Enhanced Coverage Formats
+1. **Documentary and Feature Content** - Now permitted with proper attribution
+2. **Video and Multimedia Content** - Allowed for news and educational purposes  
+3. **Inventor Profile Features** - Encouraged with respectful coverage of identity and achievements
+4. **Impact and Analysis Stories** - Permitted for discussing innovation influence and applications
+5. **Educational Content** - Enhanced freedom for teaching and learning contexts
 
 ### For Detailed Coverage Requests
 1. **Submit written request** to official contact channels
