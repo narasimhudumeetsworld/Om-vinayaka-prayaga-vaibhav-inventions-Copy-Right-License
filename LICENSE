@@ -87,7 +87,93 @@ TERMS AND CONDITIONS:
    All rights, remedies, damages, and legal proceedings available under the law 
    are expressly reserved and will be vigorously pursued for any infringement.
 
-8. CONTACT FOR PERMISSIONS
+8. SPECIAL CHIP LICENSING PROVISIONS
+   
+   **CHIP CREATION AND ADAPTATION LICENSING FRAMEWORK**
+   
+   Recognizing the importance of semiconductor innovation while protecting intellectual property rights,
+   this section establishes a special licensing framework for chip creation and adaptation based on
+   the protected inventions and concepts within this portfolio.
+   
+   **8.1 CHIP LICENSING ELIGIBILITY**
+   Any individual, organization, or entity seeking to create, manufacture, adapt, or implement 
+   semiconductor chips, integrated circuits, System-on-Chip (SoC) designs, or related hardware
+   implementations based on any concepts, architectures, designs, or inventions protected under
+   this license may apply for specialized chip licensing.
+   
+   **8.2 DUAL AUTHORIZATION REQUIREMENT**
+   All chip licensing applications require written consent and formal licensing approval from 
+   BOTH of the following authorized parties:
+   
+   **Primary Licensor:**
+   - Prayaga Vaibhav (Inventor/Copyright Holder)
+   - Email: vaibhavlakshmi18@icloud.com
+   - Email: vaibhavlakshmi18@outlook.com  
+   - Email: narasimhudumeetsworld@outlook.com
+   - Mobile: +91 9493177052
+   - Location: Rajamahendravaram, Andhra Pradesh, India
+   
+   **Legal Authorization:**
+   - Prayaga Venkata Ramakrishna (Attorney/Legal Advisor)
+   - Advocate, Rajamahendravaram
+   - Legal Representative for IP Licensing
+   
+   **8.3 MANDATORY LICENSING PROCESS**
+   No chip creation, adaptation, or implementation may proceed without completing the following process:
+   
+   a) **Formal Application**: Submit detailed licensing application including:
+      - Technical specifications and implementation details
+      - Intended use case and market application
+      - Manufacturing plans and distribution scope
+      - Timeline and production volume estimates
+      - Financial terms and royalty proposals
+   
+   b) **Dual Review Process**: Application must be reviewed and approved by both:
+      - Prayaga Vaibhav (Technical and IP evaluation)
+      - Prayaga Venkata Ramakrishna (Legal compliance and terms)
+   
+   c) **Written Authorization**: Receive formal written licensing agreement signed by both parties
+   
+   d) **Compliance Monitoring**: Ongoing compliance with licensing terms and conditions
+   
+   **8.4 PROMINENT DISPLAY REQUIREMENTS**
+   All chip implementations licensed under this framework MUST prominently display:
+   
+   **Required Attribution on Physical Chips:**
+   - "Licensed under Prayaga Vaibhav IP License"
+   - "© Prayaga Vaibhav - All Rights Reserved"
+   - License reference number (provided upon approval)
+   
+   **Required Documentation Display:**
+   - Full licensing attribution in all technical documentation
+   - Reference to this repository and licensing framework
+   - Attribution to both Prayaga Vaibhav (Inventor) and Prayaga Venkata Ramakrishna (Legal Advisor)
+   
+   **Required Marketing/Commercial Display:**
+   - "Technology licensed from Prayaga Vaibhav under authorized IP agreement"
+   - "Om Vinayaka 🙏" attribution in prominent product materials
+   - Links to official licensing repository
+   
+   **8.5 LICENSING TERMS AND CONDITIONS**
+   All chip licensing agreements will include:
+   - Specific royalty and compensation terms
+   - Quality and compliance standards
+   - Manufacturing and distribution limitations
+   - Ongoing reporting requirements
+   - IP protection and confidentiality obligations
+   - Termination conditions and remedies
+   
+   **8.6 ENFORCEMENT AND COMPLIANCE**
+   Unauthorized chip creation or implementation without proper licensing constitutes:
+   - Severe intellectual property infringement
+   - Violation of international semiconductor IP laws
+   - Subject to immediate legal action and injunctive relief
+   - Civil and criminal penalties under applicable laws
+   
+   All chip licensing activities are subject to continuous monitoring and enforcement.
+   Violations will result in immediate license termination and comprehensive legal action.
+
+9. CONTACT FOR PERMISSIONS
    All requests for permission to use any Materials must be submitted in
    writing to Prayaga Vaibhav. 
    
@@ -98,7 +184,7 @@ TERMS AND CONDITIONS:
    Mobile: +91 9493177052
    Location: Rajamahendravaram, Andhra Pradesh, India
 
-9. ESSENTIAL ATTRIBUTION REQUIREMENTS
+10. ESSENTIAL ATTRIBUTION REQUIREMENTS
    Full and unequivocal credit must always be given to:
    - Prayaga Vaibhav (Inventor/Author): As the sole inventor and author with 
      exclusive intellectual property rights
@@ -106,13 +192,13 @@ TERMS AND CONDITIONS:
      encouragement, inspiration, and unwavering support in the creation of 
      this intellectual property
 
-10. DISCLAIMER
+11. DISCLAIMER
     THE MATERIALS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
     PRAYAGA VAIBHAV DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING
     BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
     PURPOSE, AND NON-INFRINGEMENT.
 
-11. LIMITATION OF LIABILITY
+12. LIMITATION OF LIABILITY
     IN NO EVENT SHALL PRAYAGA VAIBHAV BE LIABLE FOR ANY DIRECT, INDIRECT,
     INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF
     THE USE OR INABILITY TO USE THE MATERIALS.
