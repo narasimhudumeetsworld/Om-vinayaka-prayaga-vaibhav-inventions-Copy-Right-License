@@ -18,11 +18,11 @@ Brief description of your project.
 
 This project is licensed under the **Prayaga Vaibhav Proprietary License - All Rights Reserved**.
 
-**Important:** This project is protected under comprehensive intellectual property terms covering 218+ inventions. All rights are reserved to Prayaga Vaibhav.
+**Important:** This project is protected under comprehensive intellectual property terms covering 218+ inventions. All rights are reserved to Prayaga Vaibhav (Woman Inventor).
 
 **Full License:** https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License/blob/main/LICENSE
 
-**Copyright Notice:** © 2024-2025 Prayaga Vaibhav. All rights reserved.
+**Copyright Notice:** © 2024-2025 Prayaga Vaibhav (Woman Inventor). All rights reserved.
 
 ### Media Coverage
 Media organizations may cover this project for news purposes only with full attribution. No usage rights are granted through media coverage.

@@ -120,7 +120,7 @@ All contributions are governed by Indian law and international intellectual prop
 
 **Thank you for your interest in contributing to the Om Vinayaka repository while respecting our comprehensive intellectual property framework.**
 
-*Prayaga Vaibhav*  
+*Prayaga Vaibhav (Woman Inventor)*  
 *218+ Inventions - All Rights Reserved*  
 *Om Vinayaka* 🙏
 

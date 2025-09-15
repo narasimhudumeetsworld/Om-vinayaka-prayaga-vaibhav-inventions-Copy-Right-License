@@ -28,7 +28,7 @@ Protected under comprehensive terms covering 218+ inventions with automatic futu
 Full license: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License/blob/main/LICENSE
 Automatic protection framework: https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License/blob/main/automatic_copyright.md
 
-Copyright (c) 2024-2025 Prayaga Vaibhav. All rights reserved.
+Copyright (c) 2024-2025 Prayaga Vaibhav (Woman Inventor). All rights reserved.
 Om Vinayaka 🙏
 ```
 
@@ -41,7 +41,7 @@ Om Vinayaka 🙏
 ```json
 {
   "license": "SEE LICENSE IN LICENSE",
-  "author": "Prayaga Vaibhav",
+  "author": "Prayaga Vaibhav (Woman Inventor)",
   "repository": {
     "type": "git",
     "url": "https://github.com/narasimhudumeetsworld/Om-vinayaka-prayaga-vaibhav-inventions-Copy-Right-License"
