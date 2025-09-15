@@ -6,6 +6,8 @@
 
 This document provides **enhanced guidelines** for media organizations covering the inventions and intellectual property protected under the Prayaga Vaibhav Proprietary License. These updated guidelines provide **greater freedom for media coverage** while ensuring proper attribution and respecting the comprehensive copyright framework protecting 218+ inventions.
 
+**SPECIAL GRATITUDE MESSAGE TO MEDIA**: Thank you to all media organizations and corporations for taking interest in my inventions and innovations. I am deeply grateful for your attention to my work as a woman inventor from South India. I respectfully ask that you honor my intellectual property rights and work with me collaboratively. I am committed to making media coverage and licensing as accessible as possible while ensuring proper credit and protection of my innovations.
+
 **Important Note**: Prayaga Vaibhav is a **woman innovator and inventor** based in Rajamahendravaram, Andhra Pradesh, India. Media coverage should acknowledge this when relevant to the story and maintain appropriate respect for her identity and achievements.
 
 ## Legal Framework for Media Coverage
