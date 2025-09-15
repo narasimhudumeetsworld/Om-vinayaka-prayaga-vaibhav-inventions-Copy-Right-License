@@ -13,6 +13,7 @@ This directory contains comprehensive documentation for the Om Vinayaka reposito
 
 ### Usage and Implementation
 - [`../USAGE.md`](../USAGE.md) - License implementation guide
+- [`../short_form_copyright_examples.md`](../short_form_copyright_examples.md) - **NEW: Ready-to-copy templates for all publication types**
 - [`implementation_examples.md`](./implementation_examples.md) - Practical usage examples
 - [`attribution_guidelines.md`](./attribution_guidelines.md) - Proper attribution standards
 
@@ -39,14 +40,16 @@ This directory contains comprehensive documentation for the Om Vinayaka reposito
 3. Follow attribution requirements in [attribution_guidelines.md](./attribution_guidelines.md)
 
 ### For Academic Researchers:
-1. Read [academic_citation.md](./academic_citation.md) for proper citation
-2. Review [research_methodology.md](./research_methodology.md) for context
-3. Check [collaboration_framework.md](./collaboration_framework.md) for partnerships
+1. **Start with [../short_form_copyright_examples.md](../short_form_copyright_examples.md) for thesis and publication templates**
+2. Read [academic_citation.md](./academic_citation.md) for proper citation
+3. Review [research_methodology.md](./research_methodology.md) for context
+4. Check [collaboration_framework.md](./collaboration_framework.md) for partnerships
 
 ### For Developers and Engineers:
-1. Start with [../USAGE.md](../USAGE.md) for implementation basics
-2. Review [implementation_examples.md](./implementation_examples.md) for practical guidance
-3. Follow [legal_compliance.md](./legal_compliance.md) for proper compliance
+1. **Use [../short_form_copyright_examples.md](../short_form_copyright_examples.md) for software documentation templates**
+2. Start with [../USAGE.md](../USAGE.md) for implementation basics
+3. Review [implementation_examples.md](./implementation_examples.md) for practical guidance
+4. Follow [legal_compliance.md](./legal_compliance.md) for proper compliance
 
 ### For Legal and Business:
 1. Review [../LICENSE](../LICENSE) for complete terms

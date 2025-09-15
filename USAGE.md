@@ -1,5 +1,18 @@
 # License Usage Guide
 
+## 🚀 Quick Start - Short Form Examples
+
+**NEW: Ready-to-Copy Templates** 📋  
+For immediate use in any publication type, see: **[Short-Form Copyright Examples](./short_form_copyright_examples.md)**
+
+**Popular Quick Templates:**
+- **Thesis:** Short copyright notice for PhD/Master's thesis
+- **Zenodo:** Dataset and publication templates
+- **Journal Articles:** Academic paper headers and footers
+- **Conference Papers:** Presentation and paper templates
+- **Technical Reports:** Professional document formats
+- **Software Docs:** Code comments and documentation
+
 ## Quick Implementation
 
 ### Option 1: Direct Reference (Recommended)
