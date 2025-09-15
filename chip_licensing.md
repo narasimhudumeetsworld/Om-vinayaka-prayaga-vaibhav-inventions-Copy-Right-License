@@ -6,6 +6,8 @@
 
 This document establishes the **Special Chip Licensing Framework** for semiconductor implementations based on the protected intellectual property portfolio of **Prayaga Vaibhav** (Woman Inventor).
 
+**SPECIAL MESSAGE FROM THE INVENTOR**: Thank you to all media and corporations for your interest in my inventions. I am Prayaga Vaibhav, a middle-class South Indian girl, and I have created these innovations with the hope of advancing science and technology to help people and research. I kindly request that you do not steal my intellectual property, and I am committed to offering licensing at nominal pricing to encourage innovation while protecting my rights as the inventor.
+
 ---
 
 ## 🔑 CHIP LICENSING OVERVIEW
@@ -147,10 +149,13 @@ Om Vinayaka 🙏
 ## 💼 LICENSING TERMS AND CONDITIONS
 
 ### Royalty Structure
-- Negotiated royalty rates based on chip complexity and market value
-- Quarterly reporting and payment requirements
-- Minimum annual royalty guarantees
-- Audit rights and compliance verification
+- **Nominal royalty rates** designed to encourage innovation and advancement in science and technology
+- Flexible payment arrangements based on company size and research focus
+- **Special consideration** for educational institutions and research organizations
+- Simplified reporting requirements to reduce administrative burden
+- **Collaborative approach** to licensing terms that support mutual benefit
+
+**COMMITMENT TO ACCESSIBLE LICENSING**: As a young woman inventor who believes in advancing science and technology, licensing will be structured to be as nominal and accessible as possible while ensuring proper attribution and IP protection.
 
 ### Quality Standards
 - Manufacturing quality specifications
