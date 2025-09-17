@@ -4,6 +4,8 @@ Copyright © 2025 Prayaga Vaibhav (Woman Inventor). All Rights Reserved.
 
 **Inventor Identity**: Prayaga Vaibhav is a woman innovator and inventor based in Rajamahendravaram, Andhra Pradesh, India, who has created this comprehensive portfolio of innovations across multiple technological domains.
 
+**Personal Background**: Born on **November 18, 1994**, I am proudly the daughter of **Prayaga Venkata Ramakrishna**, Advocate, Rajamahendravaram. His encouragement, determination, and unwavering support have been the driving force behind my courage to share my inventions and innovations with the world. Without disclosing fully, I emphasize that I have only my **copyright and this license** as my protection, representing both my intellectual property and the story of my life's work.
+
 This meticulously crafted work, encompassing a vast array of intellectual contributions, is made available strictly for the purposes of scholarly reading, personal study, and academic citation. It is imperative to understand that this notice serves as a stringent declaration of intellectual property rights, safeguarding the integrity and exclusivity of the creator's innovative efforts.Permitted Uses (Under Strict Conditions):
 
 You are hereby granted limited, non-exclusive permissions under the following conditions:
