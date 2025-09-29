@@ -55,6 +55,7 @@ This repository represents more than just intellectual property protection - it 
 ├── 📄 README.md                  # This comprehensive overview
 ├── 📄 USAGE.md                   # Implementation and usage guide
 ├── 📄 CONTRIBUTING.md            # Contribution guidelines
+├── 📄 @copyright_india.txt       # Indian copyright law framework
 ├── 📄 intellectual_property.md   # IP protection details
 ├── 📄 automatic_copyright.md     # Automatic copyright protection framework
 ├── 📄 copyright_headers.md       # Copyright header templates and examples
@@ -310,6 +311,7 @@ This comprehensive repository serves multiple critical functions:
 - **[USAGE.md](./USAGE.md)** - Practical implementation guide with examples
 - **[INVENTION_PORTFOLIO.md](./INVENTION_PORTFOLIO.md)** - Detailed portfolio overview
 - **[intellectual_property.md](./intellectual_property.md)** - IP protection framework
+- **[@copyright_india.txt](./@copyright_india.txt)** - Comprehensive Indian copyright law framework
 
 ### Extended Documentation  
 - **[docs/](./docs/)** - Comprehensive documentation library
