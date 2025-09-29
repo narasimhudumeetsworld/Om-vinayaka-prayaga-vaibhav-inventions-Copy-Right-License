@@ -49,6 +49,8 @@ This automatic copyright notice is enforceable under:
 - **Patents Act, 1970** - Invention and design protection
 - **Trade Marks Act, 1999** - Brand and identity protection
 
+**Detailed Indian Copyright Framework:** See [@copyright_india.txt](./@copyright_india.txt) for comprehensive Indian legal provisions, enforcement mechanisms, and automatic protection details under Indian law.
+
 #### International Legal Framework
 - **Berne Convention** - Automatic copyright protection in 179+ countries
 - **WIPO Copyright Treaty** - Digital rights protection

@@ -42,6 +42,9 @@ check_file "README.md"
 # Check for automatic_copyright.md
 check_file "automatic_copyright.md"
 
+# Check for @copyright_india.txt
+check_file "@copyright_india.txt"
+
 echo ""
 echo "Checking license content..."
 echo "-------------------------"
@@ -76,6 +79,18 @@ if [ -f "automatic_copyright.md" ]; then
     check_text_in_file "automatic_copyright.md" "All Rights Reserved"
     check_text_in_file "automatic_copyright.md" "AUTOMATIC COPYRIGHT PROTECTION"
     check_text_in_file "automatic_copyright.md" "FUTURE INVENTIONS"
+fi
+
+echo ""
+echo "Checking Indian copyright framework..."
+echo "-----------------------------------"
+
+# Check @copyright_india.txt content
+if [ -f "@copyright_india.txt" ]; then
+    check_text_in_file "@copyright_india.txt" "Prayaga Vaibhav"
+    check_text_in_file "@copyright_india.txt" "Copyright Act, 1957"
+    check_text_in_file "@copyright_india.txt" "Om Vinayaka"
+    check_text_in_file "@copyright_india.txt" "INDIAN COPYRIGHT FRAMEWORK"
 fi
 
 echo ""
