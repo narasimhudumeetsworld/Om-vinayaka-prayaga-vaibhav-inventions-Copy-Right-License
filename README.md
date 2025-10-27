@@ -319,6 +319,7 @@ This comprehensive repository serves multiple critical functions:
 
 ### Extended Documentation  
 - **[docs/](./docs/)** - Comprehensive documentation library
+  - **[ORCID Integration](./docs/ORCID_INTEGRATION.md)** - Detailed guide for automated ORCID synchronization
 - **[templates/](./templates/)** - Ready-to-use templates for all project types
 - **[examples/](./examples/)** - Real-world implementation examples
 - **[scripts/](./scripts/)** - Automation and validation utilities
@@ -377,6 +378,23 @@ This license repository is regularly updated to reflect:
 - New invention additions to the portfolio
 - Enhanced protection mechanisms
 - Improved implementation guidelines
+
+### Automatic ORCID Synchronization
+This repository features **automated synchronization** with the ORCID profile:
+- **Daily Updates**: Publications automatically synced every day at 2:00 AM UTC
+- **Manual Triggers**: Can be manually triggered via GitHub Actions
+- **Comprehensive Coverage**: All works, thesis, journal articles, and publications
+- **Protected Content**: All synchronized works maintain full copyright protection
+- **View Publications**: [PUBLICATIONS.md](./PUBLICATIONS.md) - Automatically updated list
+
+**ORCID Profile**: [https://orcid.org/0009-0007-8995-0895](https://orcid.org/0009-0007-8995-0895)
+
+The synchronization system:
+1. Fetches all works from ORCID public API
+2. Categorizes by type (journal articles, thesis, patents, etc.)
+3. Generates formatted PUBLICATIONS.md with copyright notices
+4. Updates automatically via GitHub Actions workflow
+5. Maintains complete licensing and attribution information
 
 ### Automatic Inheritance
 All projects referencing this license will automatically inherit:
