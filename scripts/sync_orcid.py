@@ -21,7 +21,7 @@ from collections import defaultdict
 
 # ORCID Configuration
 ORCID_ID = "0009-0007-8995-0895"
-ORCID_API_URL = f"https://pub.orcid.org/v3.0/{{ORCID_ID}}/works"
+ORCID_API_URL = f"https://pub.orcid.org/v3.0/{ORCID_ID}/works"
 HEADERS = {
     "Accept": "application/json"
 }
@@ -35,11 +35,11 @@ def create_data_directory():
     """Create data directory if it doesn't exist"""
     if not os.path.exists(DATA_DIR):
         os.makedirs(DATA_DIR)
-        print(f"✓ Created directory: {{DATA_DIR}}")
+        print(f"✓ Created directory: {DATA_DIR}")
 
 def fetch_orcid_works():
     """Fetch works from ORCID API"""
-    print(f"📡 Fetching works from ORCID profile: {{ORCID_ID}}")
+    print(f"📡 Fetching works from ORCID profile: {ORCID_ID}")
     
     try:
         response = requests.get(ORCID_API_URL, headers=HEADERS, timeout=30)
@@ -50,7 +50,7 @@ def fetch_orcid_works():
         return data
     
     except requests.exceptions.RequestException as e:
-        print(f"❌ Error fetching ORCID data: {{e}}")
+        print(f"❌ Error fetching ORCID data: {e}")
         return None
 
 def save_raw_data(data):
@@ -58,9 +58,9 @@ def save_raw_data(data):
     try:
         with open(JSON_OUTPUT, 'w', encoding='utf-8') as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
-        print(f"✓ Saved raw data to: {{JSON_OUTPUT}}")
+        print(f"✓ Saved raw data to: {JSON_OUTPUT}")
     except Exception as e:
-        print(f"❌ Error saving raw data: {{e}}")
+        print(f"❌ Error saving raw data: {e}")
 
 def parse_works(data):
     """Parse and categorize works from ORCID data"""
@@ -122,7 +122,7 @@ def parse_works(data):
         
         works_by_type[work_type].append(work_entry)
     
-    print(f"✓ Parsed {{sum(len(works) for works in works_by_type.values())}} works")
+    print(f"✓ Parsed {sum(len(works) for works in works_by_type.values())} works")
     return works_by_type
 
 def generate_publications_md(works_by_type):
@@ -137,7 +137,7 @@ def generate_publications_md(works_by_type):
     content.append("")
     content.append("## Prayaga Vaibhav - Woman Inventor")
     content.append("")
-    content.append(f"**ORCID Profile**: [https://orcid.org/{{ORCID_ID}}](https://orcid.org/{{ORCID_ID}})")
+    content.append(f"**ORCID Profile**: [https://orcid.org/{ORCID_ID}](https://orcid.org/{ORCID_ID})")
     content.append("")
     content.append("---")
     content.append("")
@@ -156,9 +156,9 @@ def generate_publications_md(works_by_type):
     content.append("")
     content.append("---")
     content.append("")
-    content.append(f"**Last Updated**: {{datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')}} UTC")
+    content.append(f"**Last Updated**: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC")
     content.append("")
-    content.append(f"**Total Works**: {{sum(len(works) for works in works_by_type.values())}}")
+    content.append(f"**Total Works**: {sum(len(works) for works in works_by_type.values())}")
     content.append("")
     content.append("---")
     content.append("")
@@ -187,31 +187,31 @@ def generate_publications_md(works_by_type):
         if not works:
             continue
         
-        display_name = type_display.get(work_type, f'📌 {{work_type.replace("_", " ").title()}}')
+        display_name = type_display.get(work_type, f'📌 {work_type.replace("_", " ").title()}')
         
-        content.append(f"## {{display_name}}")
+        content.append(f"## {display_name}")
         content.append("")
         
         # Sort works by date (newest first)
         sorted_works = sorted(works, key=lambda x: x.get('date', ''), reverse=True)
         
         for idx, work in enumerate(sorted_works, 1):
-            content.append(f"### {{idx}}. {{work['title']}}")
+            content.append(f"### {idx}. {work['title']}")
             content.append("")
             
             if work['date']:
-                content.append(f"**Publication Date**: {{work['date']}}")
+                content.append(f"**Publication Date**: {work['date']}")
                 content.append("")
             
             if work['journal']:
-                content.append(f"**Source**: {{work['journal']}}")
+                content.append(f"**Source**: {work['journal']}")
                 content.append("")
             
             if work['doi']:
-                content.append(f"**DOI**: [{{work['doi']}}](https://doi.org/{{work['doi']}})")
+                content.append(f"**DOI**: [{work['doi']}](https://doi.org/{work['doi']})")
                 content.append("")
             elif work['url']:
-                content.append(f"**URL**: [{{work['url']}}]({{work['url']}})")
+                content.append(f"**URL**: [{work['url']}]({work['url']})")
                 content.append("")
             
             # Copyright notice for each work
@@ -251,9 +251,9 @@ def generate_publications_md(works_by_type):
     try:
         with open(PUBLICATIONS_FILE, 'w', encoding='utf-8') as f:
             f.write('\n'.join(content))
-        print(f"✓ Generated {{PUBLICATIONS_FILE}}")
+        print(f"✓ Generated {PUBLICATIONS_FILE}")
     except Exception as e:
-        print(f"❌ Error writing PUBLICATIONS.md: {{e}}")
+        print(f"❌ Error writing PUBLICATIONS.md: {e}")
 
 def main():
     """Main execution function"""

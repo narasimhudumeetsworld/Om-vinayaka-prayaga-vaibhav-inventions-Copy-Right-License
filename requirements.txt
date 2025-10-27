@@ -1,0 +1,5 @@
+# Om Vinayaka 🙏
+# Python Dependencies for ORCID Synchronization
+# © 2024-2025 Prayaga Vaibhav - All Rights Reserved
+
+requests>=2.31.0
