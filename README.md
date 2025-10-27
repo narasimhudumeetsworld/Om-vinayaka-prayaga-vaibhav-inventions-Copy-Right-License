@@ -46,6 +46,7 @@ This repository represents more than just intellectual property protection - it 
 - **🔧 Automation Tools** - Scripts for license validation and compliance checking
 - **📺 Media Guidelines** - Clear framework for media coverage with attribution requirements
 - **🤝 Collaboration Framework** - Guidelines for partnerships and academic collaboration
+- **🔬 Publications & Works** - [Automatically synchronized ORCID profile](PUBLICATIONS.md) with all academic works, thesis, journal articles, and publications
 
 ### 🗂️ Repository Structure
 
@@ -53,6 +54,7 @@ This repository represents more than just intellectual property protection - it 
 📁 Om-Vinayaka-Repository/
 ├── 📄 LICENSE                    # Complete proprietary license terms
 ├── 📄 README.md                  # This comprehensive overview
+├── 📄 PUBLICATIONS.md            # Automatically synchronized ORCID publications
 ├── 📄 USAGE.md                   # Implementation and usage guide
 ├── 📄 CONTRIBUTING.md            # Contribution guidelines
 ├── 📄 @copyright_india.txt       # Indian copyright law framework
@@ -72,7 +74,8 @@ This repository represents more than just intellectual property protection - it 
 │   ├── 📄 chip_licensing_application.md
 │   └── 📄 chip_attribution_templates.md
 └── 📁 scripts/                   # Automation and validation tools
-    └── 📄 validate_license.sh
+    ├── 📄 validate_license.sh
+    └── 📄 sync_orcid.py          # ORCID profile synchronization
 ```
 
 ## 🚀 Quick Start Guide
@@ -308,6 +311,7 @@ This comprehensive repository serves multiple critical functions:
 
 ### Core Documentation
 - **[LICENSE](./LICENSE)** - Complete proprietary license terms and conditions
+- **[PUBLICATIONS.md](./PUBLICATIONS.md)** - Automatically synchronized academic works, thesis, journal articles, and publications from ORCID
 - **[USAGE.md](./USAGE.md)** - Practical implementation guide with examples
 - **[INVENTION_PORTFOLIO.md](./INVENTION_PORTFOLIO.md)** - Detailed portfolio overview
 - **[intellectual_property.md](./intellectual_property.md)** - IP protection framework

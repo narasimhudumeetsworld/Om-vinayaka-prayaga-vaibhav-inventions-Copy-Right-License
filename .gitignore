@@ -55,3 +55,6 @@ sensitive/
 # Test outputs
 test-results/
 coverage/
+
+# ORCID sync data cache
+data/

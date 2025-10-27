@@ -1,0 +1,80 @@
+name: Sync ORCID Publications
+
+on:
+  # Run daily at 2 AM UTC
+  schedule:
+    - cron: '0 2 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+  
+  # Run on push to main branch (for testing)
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/sync_orcid.py'
+      - '.github/workflows/sync-orcid.yml'
+
+jobs:
+  sync-orcid:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+      
+      - name: Run ORCID sync script
+        run: |
+          python scripts/sync_orcid.py
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git diff --quiet PUBLICATIONS.md || echo "changed=true" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add PUBLICATIONS.md data/
+          git commit -m "🔄 Automated ORCID sync - $(date -u '+%Y-%m-%d %H:%M:%S UTC')
+          
+          Om Vinayaka 🙏
+          
+          Automated synchronization of publications and works from ORCID profile.
+          Profile: https://orcid.org/0009-0007-8995-0895
+          
+          © 2024-2025 Prayaga Vaibhav - All Rights Reserved"
+          git push
+      
+      - name: Summary
+        run: |
+          echo "## ORCID Sync Complete 🙏" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Om Vinayaka** 🙏" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- ORCID Profile: https://orcid.org/0009-0007-8995-0895" >> $GITHUB_STEP_SUMMARY
+          echo "- Sync Time: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- Status: ✅ Completed" >> $GITHUB_STEP_SUMMARY
+          if [ -f "PUBLICATIONS.md" ]; then
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "### Publications File Generated" >> $GITHUB_STEP_SUMMARY
+            echo "View: [PUBLICATIONS.md](../PUBLICATIONS.md)" >> $GITHUB_STEP_SUMMARY
+          fi
