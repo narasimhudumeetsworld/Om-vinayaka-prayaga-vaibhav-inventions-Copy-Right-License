@@ -95,7 +95,7 @@ Minimal Python dependencies:
                      ▼
 ┌─────────────────────────────────────────────────────────┐
 │  1. Checkout Repository                                 │
-│  2. Setup Python 3.11                                   │
+│  2. Set up Python 3.11                                  │
 │  3. Install dependencies (requests)                     │
 └────────────────────┬────────────────────────────────────┘
                      │
