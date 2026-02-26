@@ -54,7 +54,7 @@ if [ -f "LICENSE" ]; then
     check_text_in_file "LICENSE" "Prayaga Vaibhav"
     check_text_in_file "LICENSE" "All Rights Reserved"
     check_text_in_file "LICENSE" "Om Vinayaka"
-    check_text_in_file "LICENSE" "218+ inventions"
+    check_text_in_file "LICENSE" "inventions"
 fi
 
 echo ""

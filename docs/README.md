@@ -2,7 +2,7 @@
 
 **Om Vinayaka** 🙏
 
-This directory contains comprehensive documentation for the Om Vinayaka repository and its 218+ inventions portfolio.
+This directory contains comprehensive documentation for the Om Vinayaka repository and its inventions portfolio.
 
 ## Documentation Structure
 
