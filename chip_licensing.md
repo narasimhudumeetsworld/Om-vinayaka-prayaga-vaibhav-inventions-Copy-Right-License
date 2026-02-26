@@ -264,7 +264,7 @@ This **Special Chip Licensing Framework** provides a structured pathway for auth
 ---
 
 **Prayaga Vaibhav (Woman Inventor)**  
-*218+ Inventions - All Rights Reserved*  
+*Inventions - All Rights Reserved*  
 *Om Vinayaka* 🙏
 
 *Empowering semiconductor innovation through authorized licensing while protecting comprehensive intellectual property rights.*

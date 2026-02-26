@@ -117,7 +117,7 @@ commercial use under comprehensive licensing agreement.
 
 [COMPANY NAME] has obtained authorized licensing for semiconductor implementation 
 from **Prayaga Vaibhav** (Woman Inventor), incorporating innovative concepts from 
-her comprehensive portfolio of 218+ inventions.
+her comprehensive portfolio of inventions.
 
 **Licensing Framework**:
 - **Inventor**: Prayaga Vaibhav (Woman Inventor)

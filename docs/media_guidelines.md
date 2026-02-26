@@ -4,7 +4,7 @@
 
 ## Overview
 
-This document provides **enhanced guidelines** for media organizations covering the inventions and intellectual property protected under the Prayaga Vaibhav Proprietary License. These updated guidelines provide **greater freedom for media coverage** while ensuring proper attribution and respecting the comprehensive copyright framework protecting 218+ inventions.
+This document provides **enhanced guidelines** for media organizations covering the inventions and intellectual property protected under the Prayaga Vaibhav Proprietary License. These updated guidelines provide **greater freedom for media coverage** while ensuring proper attribution and respecting the comprehensive copyright framework protecting inventions.
 
 **SPECIAL GRATITUDE MESSAGE TO MEDIA**: Thank you to all media organizations and corporations for taking interest in my inventions and innovations. I am deeply grateful for your attention to my work as a woman inventor from South India. I respectfully ask that you honor my intellectual property rights and work with me collaboratively. I am committed to making media coverage and licensing as accessible as possible while ensuring proper credit and protection of my innovations.
 
@@ -67,7 +67,7 @@ For comprehensive coverage:
 Om Vinayaka 🙏
 
 Comprehensive Innovation Portfolio by Prayaga Vaibhav (Woman Inventor)
-218+ Inventions - All Rights Reserved
+Inventions - All Rights Reserved
 
 This coverage is for news and educational purposes. No usage rights are granted through this media coverage.
 All inventions and intellectual property remain exclusively owned by Prayaga Vaibhav.
@@ -148,7 +148,7 @@ FOR IMMEDIATE RELEASE
 [Your Organization] Reports on Comprehensive Innovation Portfolio
 
 [City, Date] - [Your media organization] today covered the extensive innovation portfolio 
-developed by Prayaga Vaibhav, comprising 218+ inventions across multiple technological domains.
+developed by Prayaga Vaibhav, comprising inventions across multiple technological domains.
 
 The comprehensive portfolio includes innovations in hardware architectures, software frameworks, 
 neural engine concepts, and conceptual frameworks, representing years of innovative work and 
@@ -160,7 +160,7 @@ and intellectual property rights are maintained."
 
 About the Inventor:
 Prayaga Vaibhav is an innovative inventor based in Rajamahendravaram, Andhra Pradesh, India, 
-with a portfolio of 218+ protected inventions across multiple technological domains.
+with a portfolio of protected inventions across multiple technological domains.
 
 Media Coverage Notice:
 This coverage is for news purposes only. No usage rights are granted through this media coverage. 
@@ -177,7 +177,7 @@ Email: vaibhavlakshmi18@icloud.com
 ORCID: https://orcid.org/0009-0007-8995-0895
 
 Legal Notice:
-© 2024-2025 Prayaga Vaibhav. All rights reserved. 218+ inventions protected under 
+© 2024-2025 Prayaga Vaibhav. All rights reserved. inventions protected under 
 comprehensive intellectual property framework.
 
 Om Vinayaka 🙏
@@ -230,7 +230,7 @@ For corrections or additional information:
 
 ---
 
-**These guidelines ensure responsible media coverage while respecting the comprehensive intellectual property framework protecting 218+ innovations. Thank you for your cooperation in maintaining proper attribution and legal compliance.**
+**These guidelines ensure responsible media coverage while respecting the comprehensive intellectual property framework protecting innovations. Thank you for your cooperation in maintaining proper attribution and legal compliance.**
 
 *Om Vinayaka* 🙏
 

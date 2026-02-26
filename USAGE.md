@@ -21,7 +21,7 @@ Add this to your project's README.md:
 ```markdown
 ## License
 This project is licensed under the Prayaga Vaibhav Proprietary License - All Rights Reserved.
-Protected under comprehensive terms covering 218+ inventions with automatic future protection.
+Protected under comprehensive terms covering inventions with automatic future protection.
 
 **Automatic Copyright Protection Applied** - All current and future inventions automatically protected.
 
@@ -59,7 +59,7 @@ Add this header to source code files:
  * Copyright (c) 2024-2025 Prayaga Vaibhav
  * Om Vinayaka 🙏
  * 
- * 218+ Inventions - All Rights Reserved
+ * Inventions - All Rights Reserved
  * Automatic protection applied to all future inventions
  * 
  * This file is part of a proprietary software project protected under
@@ -80,7 +80,7 @@ For documentation or websites:
 
 ```
 © 2024-2025 Prayaga Vaibhav. All rights reserved. 
-218+ inventions protected with automatic future protection.
+inventions protected with automatic future protection.
 
 AUTOMATIC COPYRIGHT PROTECTION APPLIED
 All current and future inventions are automatically protected under comprehensive copyright law.

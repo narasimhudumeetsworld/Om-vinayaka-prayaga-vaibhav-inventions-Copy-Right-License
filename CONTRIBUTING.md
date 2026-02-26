@@ -4,7 +4,7 @@
 
 ## Important Legal Notice
 
-This repository contains **218+ inventions** and comprehensive intellectual property protected under **STRICT ALL RIGHTS RESERVED** license terms. All contributions are subject to the licensing terms outlined in this repository.
+This repository contains **inventions** and comprehensive intellectual property protected under **STRICT ALL RIGHTS RESERVED** license terms. All contributions are subject to the licensing terms outlined in this repository.
 
 ## Before Contributing
 
@@ -33,7 +33,7 @@ This repository contains **218+ inventions** and comprehensive intellectual prop
 - Modifications to core license terms without authorization
 - Addition of conflicting license terms
 - Content that violates the copyright framework
-- Technical implementations or derivations of the 218+ inventions
+- Technical implementations or derivations of the inventions
 
 ## Contribution Process
 
@@ -121,7 +121,7 @@ All contributions are governed by Indian law and international intellectual prop
 **Thank you for your interest in contributing to the Om Vinayaka repository while respecting our comprehensive intellectual property framework.**
 
 *Prayaga Vaibhav (Woman Inventor)*  
-*218+ Inventions - All Rights Reserved*  
+*Inventions - All Rights Reserved*  
 *Om Vinayaka* 🙏
 
 *Inspired and supported by Prayaga Venkata Ramakrishna, Advocate, Rajamahendravaram*
